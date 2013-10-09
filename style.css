@@ -1,0 +1,21 @@
+body {
+ 	font-family:Helvetica;
+ 	font-weight:100;
+  	/*background: url(pencil.jpeg) center;*/
+  background-size:cover;
+}
+
+#cards {
+	position:relative;
+  float:center;
+  display:inline;
+}
+
+.slot {
+  border:3px solid black;
+	border-radius:3px;
+	width:90px;
+	height:60px;
+	margin:15px 15px 15px 15px;
+  display:inline-block;
+}
